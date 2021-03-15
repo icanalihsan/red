@@ -1346,9 +1346,9 @@ iframe{max-width:100%}img{width:100%;height:auto}table[border="1"]{border-collap
 
 .post-body a[imageanchor]{display:inline-block}
 .post-body a[imageanchor],table.tr-caption-container{float:none !important;margin-left:auto !important;margin-right:auto !important}
-.post-body h3{position:relative;z-index:1;margin:0;font-size:13px;text-transform:uppercase}
+.post-body h3{position:relative;z-index:1;margin:0;font-size:18px;text-transform:uppercase}
 .post-body h3 span{background:#fdfdfd;padding:4px 10px;margin-left:10px;border-left:3px solid #f0f0f0;border-right:3px solid #f0f0f0}
-.post-body h3:before{content:'';position:absolute;top:8px;left:0;right:0;border-top:3px solid #f0f0f0;z-index:-1}
+.post-body h3:before{content:'';position:absolute;top:12px;left:0;right:0;border-top:3px solid #f0f0f0;z-index:-1}
 .post-body span.tekskode,span.csskode{background:#2f2f2f;color:#1baeb0;font-size:11px;font-weight:bold;padding:1px 5px 1px;font-family:consolas;border-radius:3px}
 .post-body span.csskode{color:#D29C2F}
 table {font-family: Arial, Helvetica, sans-serif;color: #666;text-shadow: 1px 1px 0px #fff;background: #eaebec;border: #ccc 1px solid;margin:20px;}
